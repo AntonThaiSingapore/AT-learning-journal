@@ -1,3 +1,4 @@
 # AT-learning-journal
 AT notes from the Git &amp; GitHub session
-Test Ting
+Testing
+5:54PM Updated from GitHub directly!
